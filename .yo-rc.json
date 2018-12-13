@@ -1,0 +1,9 @@
+{
+  "generator-donejs": {
+    "promptValues": {
+      "authorName": "direktspeed",
+      "authorEmail": "frank@dspeed.eu",
+      "authorUrl": "https://dspeed.eu/doorly"
+    }
+  }
+}
